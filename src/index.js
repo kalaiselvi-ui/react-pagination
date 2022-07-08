@@ -9,7 +9,7 @@ const queryClient = new QueryClient()
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <QueryClientProvider client={queryClient}>
+  <QueryClientProvider client={queryClient} basename={process.env.PUBLIC_URL}>
     <App />
   </QueryClientProvider>
 );
