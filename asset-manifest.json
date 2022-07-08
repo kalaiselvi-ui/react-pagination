@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kalaiselvi-ui/react-pagination.git/static/css/main.dcd3c12c.css",
+    "main.js": "/kalaiselvi-ui/react-pagination.git/static/js/main.9cdeaf05.js",
+    "index.html": "/kalaiselvi-ui/react-pagination.git/index.html",
+    "main.dcd3c12c.css.map": "/kalaiselvi-ui/react-pagination.git/static/css/main.dcd3c12c.css.map",
+    "main.9cdeaf05.js.map": "/kalaiselvi-ui/react-pagination.git/static/js/main.9cdeaf05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcd3c12c.css",
+    "static/js/main.9cdeaf05.js"
+  ]
+}
